@@ -2,9 +2,7 @@
 //  ViewController.swift
 //  TaskBackground
 //
-//  Created by Daniil on 6.05.21.
-//  With the help Dzmitry Semenovich
-//
+
 
 import UIKit
 
