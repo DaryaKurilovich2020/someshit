@@ -1,8 +1,9 @@
 //
-//  main.m
+//  AppDelegate.h
 //  TaskWeather
 //
-
+//  Created by Darya on 6.05.21.
+//
 
 #import <UIKit/UIKit.h>
 #import "AppDelegate.h"
