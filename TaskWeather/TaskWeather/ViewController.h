@@ -11,7 +11,7 @@ NSDictionary *temperatureData;
 
 @interface ViewController : UIViewController
 
-@property (weak, nonatomic) IBOutlet UILabel *citiName;
+@property (weak, nonatomic) IBOutlet UILabel *city;
 
 @property (weak, nonatomic) IBOutlet UILabel *temperature;
 
