@@ -37,7 +37,7 @@
     
     
     NSString *city = self.textField.text;
-    self.citiName.text = city;
+    self.city.text = city;
     self.temperature.text = [temperatureData[city] stringValue];
     
     
