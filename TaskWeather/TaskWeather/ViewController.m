@@ -17,7 +17,6 @@
     [super viewDidLoad];
     
     temperatureData = [NSMutableDictionary dictionary];
-    weatherData = [NSMutableDictionary dictionary];
     
     _button.layer.cornerRadius = 5;
     _button.layer.borderWidth = 1;
