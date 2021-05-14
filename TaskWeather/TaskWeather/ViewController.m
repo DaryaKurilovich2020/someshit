@@ -1,11 +1,9 @@
 //
-//  ViewController.m
+//  AppDelegate.h
 //  TaskWeather
 //
-// created by Darya Kurilovich
+//  Created by Darya on 14.05.21.
 //
-//
-
 
 #import "ViewController.h"
 
