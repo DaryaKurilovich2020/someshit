@@ -2,7 +2,7 @@
 //  AppDelegate.m
 //  TaskWeather
 //
-//  Created by Daniil on 6.05.21.
+//  Created by Darya on 14.05.21.
 //
 
 #import "AppDelegate.h"
