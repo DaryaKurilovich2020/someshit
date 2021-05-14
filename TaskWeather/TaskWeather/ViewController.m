@@ -2,9 +2,10 @@
 //  ViewController.m
 //  TaskWeather
 //
-//  Created by Daniil on 6.05.21.
-//  With the help Dzmitry Semenovich
+// created by Darya Kurilovich
 //
+//
+
 
 #import "ViewController.h"
 
